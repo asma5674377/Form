@@ -1,0 +1,80 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.clur{
+    background: linear-gradient(to right,rgb(21, 128, 199),rgb(81, 183, 252),rgb(243, 66, 234),rgba(172, 0, 163));
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.smallbx{
+background-color: rgb(252, 252, 252);
+    height: 92vh;
+    width: 30%;
+    border-radius: 5px;
+      display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.smallbx h1{
+margin: 50px 0;
+
+}
+input{
+    width: 300px;
+    padding: 10px;
+     margin-bottom: 15px;
+    font-size: 16px;
+
+}
+.lg{
+    text-decoration: none;
+    color: rgb(7, 75, 139);
+    text-transform: capitalize;
+    font-size: 18px;
+}
+ .btn{
+    width: 350px;
+    height: 43px;
+    background: linear-gradient(to right , blue ,purple);
+    margin: 20px;
+    border: none;
+    text-transform: uppercase;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+}
+.btn1{
+ height: 45px;
+ width: 150px;
+ border-radius: 5px;
+ font-size: 18px;
+ text-transform: capitalize;
+  margin: 0 10px;
+  border-color: rgb(196, 196, 196);
+
+}
+.btn1 a{
+    color: rgb(10, 35, 119);
+     text-decoration: none;
+   
+}
+.btn2 a{
+    color: brown;
+     text-decoration: none;
+}
+.main_btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.smallbx h3{
+
+margin: 20px;
+
+}
